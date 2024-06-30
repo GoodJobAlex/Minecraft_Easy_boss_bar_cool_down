@@ -1,0 +1,2 @@
+scoreboard players set index EasyCoolDown.variables 0
+function easycooldown:internal/loop_through_displays
