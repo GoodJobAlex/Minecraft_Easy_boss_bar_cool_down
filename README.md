@@ -1,4 +1,4 @@
-# Minecraft_Easy_boss_bar_cool_down
+# Minecraft_Easy_bossbar_cool_down-Version 1.21
 A Easy way for you to customize boss bar cool down, potential draw backs include require manual setting of the the cool other than its name
 # How to use
 **add a cool down for one specific target:**      
