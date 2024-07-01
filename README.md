@@ -4,3 +4,4 @@ A Easy way for you to customize boss bar cool down, potential draw backs include
 **add a cool down for one specific target:**      
 data modify storage easycooldown:storage data.input set value {ticks:???,name:'"????"',color:"???"}
 execute as target run function easycooldown:api/initiate_display
+this function above returns the id of your boss bar which you can access with easycooldown.id
